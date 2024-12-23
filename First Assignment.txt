@@ -1,0 +1,153 @@
+                                                                     First Assignment
+
+
+Q1 WHAT IS PROGRAM?
+
+A program is a set of instructions that a computer follows to perform a specific task or solve a problem. It is written in a programming language and can range from simple tasks, like adding numbers, to complex tasks, like running a website.
+
+Q2 WRITE A SIMPLE "hello word" PROGRAM ?
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+
+Q3 WHAT IS PROGRAMMING?
+
+Programming is the process of writing instructions (called code) that tell a computer how to perform specific tasks. It involves using a programming language to create software, applications, or websites.
+
+Q4 TYPES OF PROGRAMING LANGUAGE?
+
+c++, PYTHON, JAVA ,JAVASCRIPT ,NODE.JS, ETC
+
+Q5 DIFFRENCE BETWEEN HIGH-LEVEL & LOW-LEVEL PROGRAMMING LANGUAGE? 
+
+HIGH-LEVEL= High-level languages provide more abstraction from machine hardware.
+LOW-LEVEL=Low-level languages are closer to the machine’s native code and hardware.
+
+Q6 WHAT IS WORD-WIDE-WEB?
+
+The World Wide Web (WWW) is a system of websites and web pages that are linked together and can be accessed over the internet. It's where you find things like websites, videos, and online content, which you view using a web browser like Google Chrome or Safari.
+
+Q7 DESCRIBE THE ROLE CLIENT AND SERVER IN WEB COMMUNICATION.
+
+Client: The client is the device (like a computer, phone, or tablet) that requests information from the web. It usually uses a web browser (like Chrome or Safari) to visit websites.
+
+Server: The server is a computer that stores websites and responds to requests from clients. When the client asks for a webpage, the server sends the requested page back.
+
+Q8 DEFINE NETWORKING LAYER ON CLIENT AND SERVER SIDE.
+
+1-Application Layer:
+The server receives requests from the client through application protocols like HTTP/HTTPS.
+2-Transport Layer:
+The server uses TCP or UDP to ensure reliable communication with the client.
+3-Network Layer:
+The server's IP address is used to identify where the server is located on the internet or network.
+4-Data Link Layer:
+The server communicates with the network using the appropriate local network protocols (e.g., Ethernet or Wi-Fi) 
+5-Physical Layer:
+Just like the client-side, the physical layer on the server side involves the actual hardware and medium that facilitate the transmission of data packets over the network.
+
+Q 9 explain client server communitaion?
+Client-server communication is a way of exchanging data between two devices: the client (like a computer or smartphone) and the server (a computer that provides services or resources).
+
+Q 10 types of internet connection ?
+
+1 Broadband
+
+2  Satellite
+
+3 Cable
+
+4 Fiber Optic
+
+5 Wireless (Wi-Fi)
+
+Q 11 difference between broadband and fiber-optic interent ?
+
+1 Broadband:
+
+Definition: Broadband is a general term for any high-speed internet connection that offers fast data transfer. It can be delivered through different technologies, such as DSL, cable, satellite, or fiber-optic.
+
+2 Fiber-Optic Internet:
+
+Definition: Fiber-optic internet is a specific type of broadband that uses light signals sent through glass or plastic fibers to deliver ultra-fast internet.
+
+Q 12 what is difference between http and https protocol?
+
+1 HTTP (Hypertext Transfer Protocol):
+
+Definition: HTTP is a protocol used for transferring data (like web pages) over the internet. It is not secure,
+
+2 HTTPS (Hypertext Transfer Protocol Secure):
+
+Definition: HTTPS is a secure version of HTTP.
+
+
+q 13 difference between system software and application software?
+
+1 system software
+Definition: System software helps run the computer and manage hardware. It provides a platform for running application software.
+Example: Operating systems (like Windows, macOS, Linux) and device drivers
+
+2 Application Software:
+Definition: Application software is designed to perform specific tasks for the user, like word processing, web browsing, or playing music.
+Example: Microsoft Word, Google Chrome, Spotify.
+
+
+Q14 types of layer in improtant software architecture?
+
+1. Presentation Layer (User Interface Layer)
+
+2. Application Layer (Business Logic Layer)
+
+3  Data Layer (Persistence Layer)	
+
+4 Service Layer (API Layer)
+
+Q 15 what is difference between source code and machine code?
+
+Source Code:
+
+Definition: Source code is the human-readable set of instructions written by a programmer using a programming language (like Python, Java, or C++).
+Example: A Python script that prints "Hello, World!" (print("Hello, World!")).
+
+Machine Code:
+
+Definition: Machine code is the binary code (composed of 0s and 1s) that the computer's processor (CPU) understands and executes directly.
+Example: A series of 0s and 1s like 10101100 01101001 10110010.
+
+Q16 why version control in software development?
+
+1 Track Changes:
+
+2 Collaboration:
+
+3 Backup and Restore:
+
+4 Code History:
+
+Q17 types of software ?
+
+ 1 System Software:
+
+2 Application Software:
+
+3 Development Software:
+
+4 Firmware:
+
+
+
+
+
+
+
+
